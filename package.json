@@ -1,0 +1,22 @@
+{
+  "name": "is-anything",
+  "version": "1.0.0",
+  "description": "A package that can answer to all is-...questions",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.1.2"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "keywords": [
+    "is-array",
+    "is-object",
+    "is-anything",
+    "is-whatever"
+  ],
+  "author": "Emanuele DelBono <emanuele@codiceplastico.com>",
+  "license": "MIT"
+}
