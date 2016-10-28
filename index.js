@@ -1,1 +1,1 @@
-module.exports = (args) => !!args
+module.exports = args => !!args
