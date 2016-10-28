@@ -11,6 +11,8 @@
 ### isAnything(value)
 
 ```javascript
+
+const isAnything = require('is-anything')
 isAnything(arguments);
 // > true
 isAnything();
